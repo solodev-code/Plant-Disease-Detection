@@ -210,5 +210,5 @@ https://github.com/solodev-code/Plant-Disease-Detection
 </p>
 
 <p align="center">
-  <sub>MADE WITH 💚 FOR A GREENER TOMORROW</sub>
+  <sub>MADE WITH SOLODEV CODE FOR A GREENER TOMORROW</sub>
 </p>
