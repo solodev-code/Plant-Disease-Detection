@@ -79,20 +79,7 @@ The following technologies represent the project's core development areas. Updat
 | Git | Version control |
 | GitHub | Project hosting and collaboration |
 
-## 📂 Project Structure
 
-```text
-Plant-Disease-Detection/
-│
-└── Plant Disease Detection/
-    │
-    ├── 📁 dataset/
-    ├── 📁 models/
-    ├── 📁 notebooks/
-    ├── 📁 src/
-    │
-    ├── 📄 requirements.txt
-    └── 📄 README.md
 ```
 
 *Illustrative structure. Adapt the directory names to your actual repository.*
