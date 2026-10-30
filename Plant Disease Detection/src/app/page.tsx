@@ -43,7 +43,7 @@ export default function Home() {
           </a>
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com"
+              href="https://github.com/solodev-code"
               target="_blank"
               rel="noreferrer"
               className="hidden sm:inline-flex h-9 w-9 items-center justify-center rounded-full border border-border bg-card/60 text-muted-foreground transition-colors hover:text-foreground"
